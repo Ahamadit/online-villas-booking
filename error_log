@@ -1,0 +1,172 @@
+[05-Dec-2024 13:27:02 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 13:27:02 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:40:11 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:40:11 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:52:51 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:52:51 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:55:38 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[05-Dec-2024 14:55:38 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[07-Dec-2024 07:55:07 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[07-Dec-2024 07:55:07 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 08:04:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:05:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:05:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:05:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:05:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:06:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:09:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:09:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:09:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:10:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:10:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:11:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:12:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:450
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(450): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 450
+[25-Feb-2025 08:15:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rahatvil_villasdb.booking' doesn't exist in /home3/rahatvillas/public_html/index.php:492
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(492): mysqli->query('SELECT SUM(CASE...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 492
+[25-Feb-2025 08:27:02 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 08:27:02 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 08:33:53 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 08:33:53 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 13:09:24 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 13:09:24 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 432
+[25-Feb-2025 15:20:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:23:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:23:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:24:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:24:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:24:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[25-Feb-2025 15:24:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rahatvil_villasusr'@'localhost' (using password: YES) in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:18:49 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 462
+[26-Feb-2025 05:18:49 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 462
+[26-Feb-2025 05:25:35 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 462
+[26-Feb-2025 05:25:35 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 462
+[26-Feb-2025 05:30:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:40:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:40:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:40:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:40:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:40:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:48:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 05:55:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/rahatvillas/public_html/index.php:355
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(355): mysqli->__construct('localhost', 'rahatvil_villas...', Object(SensitiveParameterValue), 'rahatvil_villas...')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 355
+[26-Feb-2025 07:11:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/rahatvillas/public_html/index.php:362
+Stack trace:
+#0 /home3/rahatvillas/public_html/index.php(362): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'rahatvillas')
+#1 {main}
+  thrown in /home3/rahatvillas/public_html/index.php on line 362
+[26-Feb-2025 07:25:22 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home3/rahatvillas/public_html/retreat-villa.php on line 462
+[26-Feb-2025 07:25:22 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/rahatvillas/public_html/retreat-villa.php on line 462

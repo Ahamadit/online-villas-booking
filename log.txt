@@ -1,0 +1,12 @@
+Script started
+reCAPTCHA empty
+Script started
+Database insert success
+Script started
+Script started
+Script started
+reCAPTCHA failed
+Script started
+Database insert success
+Script started
+Database insert success
